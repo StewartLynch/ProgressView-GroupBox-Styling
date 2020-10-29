@@ -11,7 +11,7 @@
 		BB75D1FD2549CAF300415D72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D1FC2549CAF300415D72 /* ContentView.swift */; };
 		BB75D1FF2549CAF400415D72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB75D1FE2549CAF400415D72 /* Assets.xcassets */; };
 		BB75D2022549CAF400415D72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB75D2012549CAF400415D72 /* Preview Assets.xcassets */; };
-		BB75D20B2549D23400415D72 /* CustomProgressViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D20A2549D23400415D72 /* CustomProgressViews.swift */; };
+		BB75D20B2549D23400415D72 /* CustomProgressViewStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D20A2549D23400415D72 /* CustomProgressViewStyles.swift */; };
 		BB75D20E2549D6DC00415D72 /* CustomButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D20D2549D6DC00415D72 /* CustomButtonStyles.swift */; };
 		BB75D2112549F80A00415D72 /* CustomGroupBoxStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D2102549F80A00415D72 /* CustomGroupBoxStyles.swift */; };
 /* End PBXBuildFile section */
@@ -23,7 +23,7 @@
 		BB75D1FE2549CAF400415D72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB75D2012549CAF400415D72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB75D2032549CAF400415D72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BB75D20A2549D23400415D72 /* CustomProgressViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomProgressViews.swift; sourceTree = "<group>"; };
+		BB75D20A2549D23400415D72 /* CustomProgressViewStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomProgressViewStyles.swift; sourceTree = "<group>"; };
 		BB75D20D2549D6DC00415D72 /* CustomButtonStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtonStyles.swift; sourceTree = "<group>"; };
 		BB75D2102549F80A00415D72 /* CustomGroupBoxStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomGroupBoxStyles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,7 +61,7 @@
 				BB75D1FA2549CAF300415D72 /* ProgressView_GroupBox_StylingApp.swift */,
 				BB75D1FC2549CAF300415D72 /* ContentView.swift */,
 				BB75D2102549F80A00415D72 /* CustomGroupBoxStyles.swift */,
-				BB75D20A2549D23400415D72 /* CustomProgressViews.swift */,
+				BB75D20A2549D23400415D72 /* CustomProgressViewStyles.swift */,
 				BB75D1FE2549CAF400415D72 /* Assets.xcassets */,
 				BB75D20D2549D6DC00415D72 /* CustomButtonStyles.swift */,
 				BB75D2032549CAF400415D72 /* Info.plist */,
@@ -151,7 +151,7 @@
 				BB75D2112549F80A00415D72 /* CustomGroupBoxStyles.swift in Sources */,
 				BB75D1FB2549CAF300415D72 /* ProgressView_GroupBox_StylingApp.swift in Sources */,
 				BB75D20E2549D6DC00415D72 /* CustomButtonStyles.swift in Sources */,
-				BB75D20B2549D23400415D72 /* CustomProgressViews.swift in Sources */,
+				BB75D20B2549D23400415D72 /* CustomProgressViewStyles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

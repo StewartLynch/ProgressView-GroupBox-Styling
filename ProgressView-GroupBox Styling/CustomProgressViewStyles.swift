@@ -1,5 +1,5 @@
 //
-//  CustomProgressViews.swift
+//  CustomProgressViewStyles.swift
 //  ProgressView-GroupBox Styling
 //
 //  Created by Stewart Lynch on 2020-10-28.
